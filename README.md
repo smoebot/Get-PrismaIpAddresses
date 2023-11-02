@@ -1,2 +1,2 @@
 # Get-PrismaIpAddresses
-gets list of IP addresses from the PrismaAPI
+Simple Powershell script to fetch list of IP addresses from the PrismaAPI
